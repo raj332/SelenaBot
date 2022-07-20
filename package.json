@@ -1,0 +1,17 @@
+{
+  "name": "srexports_chatbot",
+  "version": "1.0.0",
+  "description": "chatbot for clients",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raj patel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.1.5"
+  }
+}
